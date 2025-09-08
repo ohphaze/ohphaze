@@ -6,7 +6,7 @@
 ---
 
 ### 🛠️ Languages & Skills  
-- Python  
+- Python (6+ Years Experience)  
 - Java  
 - JavaScript  
 - C#  

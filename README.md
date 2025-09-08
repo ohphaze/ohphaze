@@ -1,16 +1,20 @@
-## Hi there 👋
+# Winston (aka. Wyn)  
 
-<!--
-**ohphaze/ohphaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Freelance Script & Software Developer**  
+**2nd Year Cyber Security Student**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Skills  
+- Python  
+- Java  
+- JavaScript  
+- C#  
+- PHP / HTML  
+- SQL  
+
+---
+
+**Reach me at:**  
+- Email: [winstonturnbull@outlook.com](mailto:winstonturnbull@outlook.com)  
+- LinkedIn: [linkedin.com/in/winturnbull](https://www.linkedin.com/in/winturnbull/)  

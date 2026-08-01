@@ -1,8 +1,8 @@
 # Winston
 
 **Freelance Script & Software Developer**  
-**2nd Year Cyber Security Student**  
-3.9GPA
+**3rd Year Cyber Security Student**  
+3.8GPA
 
 ---
 
